@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------
 --
--- Created by: Aden Rao
+-- Created by: Teddy Sannan
 -- Created on: April 30, 2019
 --
 -- This file animates a character using a spritesheet to make him stand and then walk
